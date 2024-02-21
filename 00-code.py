@@ -10,6 +10,7 @@
 # Statement2""")
 
 
+
 # # ESCAPE SEQUENCES
 # \n - New line
 # \" - Double Quote
@@ -17,18 +18,68 @@
 # \t - Tab Space
 
 
+
 # # FROZEN SETS
 # a = frozenset([1, 2, 3, 4, 5])
 # print(type(a))
+
+
 
 # # BITWISE OPERATION
 # a = 10
 # b = 4
 # print(a&b)
 
-x = 5
-print(type(not(5)))
 
-y="bhavya"
-z="vdfgsd"
-print(y&z)
+
+# # TYPE AND NOT FUNCTION
+# x = 5
+# print(type(not(5)))
+
+
+
+# # WAP TO FIND ASCII CODE OF A CHARACTER
+# a = intput("Enter a character: ")
+# print(ASCII CODEl: ",ord(a))
+
+
+
+# # WAP TO CALCULATE BMI
+# w=float(input("Enter weight in kgs: "))
+# h=float(input("Enter height in m: "))
+# bmi=w/h**2
+# print("BMI: ",round(bmi,2))
+
+
+
+# # WAP TO PRINT NATURAL LOG OF A NUMBER
+# import math
+# a=int(input("Enter a number: "))
+# log=math.log(a)
+# print("Natural Log: ",log)
+
+
+
+# # CONVERT C INTO F
+# a=float(input("Temp: "))
+# f=((a*9)/5)+324
+# print(f)\
+
+
+
+# # WAP TO PRINT THE SUM OF NATURAL NUMBERS
+# s=0
+# a=int(input("Enter the range: "))
+# for i in range(1,a):
+#     s=s+i
+# print("Sum of natural numbers: ",s)
+
+
+# l=int(input("Enter the lower limit: "))
+# u=int(input("Enter the upper limit: "))
+
+
+for i in "whieloop":
+    if(i=='o' or i=='i' or i=='e'):
+        continue
+    print(i)

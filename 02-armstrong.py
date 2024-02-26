@@ -1,4 +1,4 @@
-# WAP TO CHECK WHETHER A NUMBER IS ARMSTRONG OR NOT
+# WAP to check whether a given number is armstrong or not
 n=int(input("Enter a number: "))
 t=n
 c=r=s=0

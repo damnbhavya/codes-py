@@ -1,4 +1,4 @@
-# WAP TO PRINT SUM OF SQUARES
+# WAP to print sum of squares
 a=int(input("Enter a number: "))
 sum=i=0
 # for i in range(0,a+1):

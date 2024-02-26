@@ -1,4 +1,4 @@
-# WAP TO PRINT FIBONACCI
+# WAP to print fibonacci series
 f=0
 s=1
 n=int(input("Enter the number of terms: "))

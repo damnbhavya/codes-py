@@ -75,11 +75,18 @@
 # print("Sum of natural numbers: ",s)
 
 
-# l=int(input("Enter the lower limit: "))
-# u=int(input("Enter the upper limit: "))
+
+# # OUTPUT PROBLEM
+# for i in "whieloop":
+#     if(i=='o' or i=='i' or i=='e'):
+#         continue
+#     print(i)
 
 
-for i in "whieloop":
-    if(i=='o' or i=='i' or i=='e'):
-        continue
-    print(i)
+
+# # WAP TO PRINT FACTORIAL OF A NUMBER
+# a=int(input("Enter a number: "))
+# fact=1
+# for i in range(1,a+1):
+#     fact=fact*i
+# print("Factorial: ",fact)

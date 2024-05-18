@@ -3,7 +3,6 @@ import math
 a=float(input("Enter 1st number:"))
 b=float(input("Enter 2nd number:"))
 c=float(input("Enter 3rd number:"))
-
 marks=int(input("Enter the marks: "))
 if(marks>=91):
     print("Grade A")
